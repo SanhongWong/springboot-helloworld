@@ -1,3 +1,5 @@
+# 忽略编译结果
 target/
+# 忽略idea的配置信息
 *.iml
 .idea/
